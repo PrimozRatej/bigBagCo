@@ -1,2 +1,2 @@
-# BigBagCo_Portofolio
+# BigBagCo portofolio
 Big Bag Company portofolio
